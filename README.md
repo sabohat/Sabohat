@@ -17,9 +17,9 @@ Skills: REACT / JS / HTML / CSS / GIT/ NodeJS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabohat)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabohat)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabohat&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabohat)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabohat)  
 
