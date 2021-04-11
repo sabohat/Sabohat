@@ -5,7 +5,7 @@
 
 Skills: REACT / JS / HTML / CSS / GIT/ NodeJS
 
-- 🔭 I’m currently working on https://rolling-scopes-school.github.io/sabohat-JSFE2021Q1/virtual-piano/ 
+- 🔭 I’m currently working on https:https://rolling-scopes-school.github.io/sabohat-JSFE2021Q1/online-zoo/assets/pages/landing.html 
 - 🌱 I’m currently learning React and NodeJS 
 - 📫 How to reach me: sabohat2802@gmail.com 
 - ⚡ Fun fact: You are now interested how I made such a github profile 
