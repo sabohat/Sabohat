@@ -6,7 +6,7 @@
 
 Skills: JS / HTML / CSS / GIT / NodeJS
 
-- 🔭 I’m currently working on https://swissdental.uz/
+- 🔭 I’m currently working on https://swissdental.uz/ (collaboration)
 - 🌱 I’m currently learning React and NodeJS at CodeAcademy and RSSchool
 - 📫 How to reach me: sabohat2802@gmail.com 
 - ⚡ MERN stack dev here(almost) :)
