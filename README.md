@@ -20,7 +20,9 @@ Skills: REACT / JS / HTML / CSS / GIT/ NodeJS
 <details>
   <summary> Show Sabohat's Github Stats</summary>
   <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabohat&show_icons=true&count_private=true)
+  <a href="#">
+    <img align="center" alt="Sabohat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabohat&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+  </a>
 </details>
 <details>
   <summary> Show Sabohat's Top Used Languages</summary>
