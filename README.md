@@ -1,11 +1,12 @@
 ### Hi there 👋, my name is Sabohat
-#### Front End developer
-![Front End developer](https://raw.githubusercontent.com/sabohat/sabohat/main/online-zoo.PNG)
+#### Web Developer
+![Screenshot from 2021-05-03 18-43-54](https://user-images.githubusercontent.com/55102075/116883997-a8cf3100-ac3f-11eb-8ebd-bc28bce52325.png)
 
 
-Skills: REACT / JS / HTML / CSS / GIT/ NodeJS
 
-- 🔭 I’m currently working on https:https://rolling-scopes-school.github.io/sabohat-JSFE2021Q1/online-zoo/assets/pages/landing.html 
+Skills: JS / HTML / CSS / GIT / NodeJS
+
+- 🔭 I’m currently working on https://swissdental.uz/
 - 🌱 I’m currently learning React and NodeJS at CodeAcademy and RSSchool
 - 📫 How to reach me: sabohat2802@gmail.com 
 - ⚡ MERN stack dev here(almost) :)
