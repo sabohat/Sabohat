@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Sabohat
 #### Web Developer
-![Screenshot from 2021-05-03 18-43-54](https://user-images.githubusercontent.com/55102075/116883997-a8cf3100-ac3f-11eb-8ebd-bc28bce52325.png)
-
-
 
 Skills: JS / HTML / CSS / GIT / NodeJS
 
