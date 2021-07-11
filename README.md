@@ -7,7 +7,7 @@ Skills: JS / HTML / CSS / GIT / NodeJS
 - 🔭 I’m currently working on https://swissdental.uz/ (collaboration)
 - 🌱 I’m currently learning React and NodeJS at CodeAcademy and RSSchool
 - 📫 How to reach me: sabohat2802@gmail.com 
-- ⚡ MERN stack dev here(almost) :)
+- ⚡ skills: Postgres/MongoDB, React(next.js), Nodes.js, Express.js
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabohat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabokhat-kalandarova/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s_a_b_o_h_a_t/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](sabokhat_k)  
