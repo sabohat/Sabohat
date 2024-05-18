@@ -3,10 +3,10 @@
 
 Skills: JS / HTML / CSS / GIT / NodeJS
 
-- Website: https://sabohat.me/
+- Website: https://sabokhat.me/
 - 🔭 I’m currently working on https://www.pastoral.ai/ (collaboration)
 - 🌱 I’m currently reading [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
-- 📫 How to reach me: sabohat2802@gmail.com 
+- 📫 How to reach me: sabokhat.dev@gmail.com 
 - ⚡ Skills: Next.js, React.js, Tailwind CSS, Material UI
 
 
